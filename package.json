@@ -1,0 +1,25 @@
+{
+  "name": "cli-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olga-Konopleva/CLI-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olga-Konopleva/CLI-application/issues"
+  },
+  "homepage": "https://github.com/Olga-Konopleva/CLI-application#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "commander": "^7.2.0"
+  },
+  "dependencies": {}
+}
